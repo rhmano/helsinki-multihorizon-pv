@@ -1,0 +1,8 @@
+Group,Best,nRMSE_best,Indistinguishable
+all,RandomForest,8.329,—
+1,RandomForest,6.46,"SVR, XGBoost"
+2,RandomForest,7.853,LSTM
+3,RandomForest,8.371,LSTM
+4,RandomForest,8.711,LSTM
+5,RandomForest,9.01,LSTM
+6,RandomForest,9.265,—

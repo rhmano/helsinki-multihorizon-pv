@@ -1,0 +1,13 @@
+Lead,Year,Scheme,n,RMSE_Wm2,Bias_Wm2,nRMSE_pct_meanGHI,r
+intraday (4–33 h),2017,full_backup+pp,5465,108.7,-34.1,48.5,0.873
+intraday (4–33 h),2018,full_backup+pp,5582,115.5,-51.0,44.5,0.891
+intraday (4–33 h),2019,full_backup+pp,5555,108.2,-35.8,43.6,0.893
+intraday (4–33 h),2020,full_backup+pp,240,23.6,-3.3,59.3,0.819
+intraday (4–33 h),2020,meps_det,5348,109.2,-42.6,42.0,0.898
+intraday (4–33 h),2021,meps_det,5605,110.4,-39.0,45.7,0.884
+dayahead (24–47 h),2017,full_backup+pp,4013,114.7,-37.3,50.5,0.865
+dayahead (24–47 h),2018,full_backup+pp,4107,124.7,-56.3,47.5,0.878
+dayahead (24–47 h),2019,full_backup+pp,4087,117.5,-39.2,46.5,0.879
+dayahead (24–47 h),2020,full_backup+pp,200,25.6,-6.5,55.6,0.849
+dayahead (24–47 h),2020,meps_det,3912,121.3,-50.2,45.8,0.881
+dayahead (24–47 h),2021,meps_det,4124,122.3,-46.8,49.9,0.867

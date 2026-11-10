@@ -1,0 +1,15 @@
+Task,Group,Reference,nRMSE_2018
+intraday,all,SmartPersistence,15.564
+intraday,all,Climatology,13.77
+intraday,1,SmartPersistence,7.234
+intraday,1,Climatology,13.751
+intraday,2,SmartPersistence,10.837
+intraday,2,Climatology,13.764
+intraday,3,SmartPersistence,13.875
+intraday,3,Climatology,13.773
+intraday,4,SmartPersistence,16.697
+intraday,4,Climatology,13.777
+intraday,5,SmartPersistence,19.14
+intraday,5,Climatology,13.778
+intraday,6,SmartPersistence,21.119
+intraday,6,Climatology,13.779

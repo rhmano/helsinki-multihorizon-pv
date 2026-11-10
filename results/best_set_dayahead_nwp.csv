@@ -1,0 +1,19 @@
+Group,Best,nRMSE_best,Indistinguishable
+all,XGBoost,10.06,RandomForest
+17,RandomForest,1.288,—
+18,RandomForest,3.631,"XGBoost, SVR"
+19,XGBoost,6.459,"RandomForest, SVR"
+20,RandomForest,9.377,"XGBoost, SVR, MLR, KNN, LSTM"
+21,RandomForest,11.189,"XGBoost, SVR, LSTM"
+22,XGBoost,12.516,"RandomForest, LSTM, KNN"
+23,XGBoost,12.749,"RandomForest, MLR, SVR, LSTM"
+24,XGBoost,13.827,"RandomForest, SVR, LSTM"
+25,RandomForest,13.135,"MLR, XGBoost, SVR, KNN, LSTM"
+26,MLR,11.856,"RandomForest, XGBoost, KNN, SVR, LSTM"
+27,RandomForest,10.017,"XGBoost, MLR, KNN, SVR, LSTM"
+28,XGBoost,7.898,RandomForest
+29,RandomForest,5.433,XGBoost
+30,RandomForest,3.266,"XGBoost, SVR"
+31,RandomForest,2.163,—
+32,RandomForest,1.3,XGBoost
+33,RandomForest,0.604,—
