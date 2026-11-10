@@ -1,0 +1,37 @@
+run_time,error,type
+2017-01-01,meps_mbr0_full_backup_2_5km_20170101T00Z.nc: OSError,partial
+2017-04-06,meps_mbr0_full_backup_2_5km_20170406T00Z.nc: OSError,partial
+2017-04-07,meps_mbr0_pp_2_5km_20170407T00Z.nc: OSError,partial
+2017-06-08,meps_mbr0_full_backup_2_5km_20170608T00Z.nc: OSError,partial
+2017-07-05,meps_det_2_5km_20170705T00Z.nc: OSError,full
+2017-07-28,meps_det_2_5km_20170728T00Z.nc: OSError,full
+2017-08-18,meps_mbr0_full_backup_2_5km_20170818T00Z.nc: OSError,partial
+2017-09-18,meps_mbr0_pp_2_5km_20170918T00Z.nc: OSError,partial
+2017-10-01,meps_mbr0_full_backup_2_5km_20171001T00Z.nc: OSError,partial
+2017-12-01,meps_mbr0_full_backup_2_5km_20171201T00Z.nc: OSError,partial
+2018-01-24,meps_det_2_5km_20180124T00Z.nc: OSError,full
+2018-05-12,meps_mbr0_pp_2_5km_20180512T00Z.nc: OSError,partial
+2018-05-13,meps_mbr0_pp_2_5km_20180513T00Z.nc: OSError,partial
+2018-05-14,meps_mbr0_pp_2_5km_20180514T00Z.nc: OSError,partial
+2018-05-15,meps_mbr0_pp_2_5km_20180515T00Z.nc: OSError,partial
+2018-05-16,meps_mbr0_pp_2_5km_20180516T00Z.nc: OSError,partial
+2018-05-17,meps_mbr0_pp_2_5km_20180517T00Z.nc: OSError,partial
+2018-05-18,meps_mbr0_pp_2_5km_20180518T00Z.nc: OSError,partial
+2018-05-19,meps_mbr0_pp_2_5km_20180519T00Z.nc: OSError,partial
+2018-05-20,meps_mbr0_pp_2_5km_20180520T00Z.nc: OSError,partial
+2018-05-21,meps_mbr0_pp_2_5km_20180521T00Z.nc: OSError,partial
+2018-05-22,meps_mbr0_pp_2_5km_20180522T00Z.nc: OSError,partial
+2018-05-23,meps_mbr0_pp_2_5km_20180523T00Z.nc: OSError,partial
+2018-05-24,meps_mbr0_pp_2_5km_20180524T00Z.nc: OSError,partial
+2018-05-25,meps_mbr0_pp_2_5km_20180525T00Z.nc: OSError,partial
+2018-05-26,meps_mbr0_pp_2_5km_20180526T00Z.nc: OSError,partial
+2018-05-27,meps_mbr0_pp_2_5km_20180527T00Z.nc: OSError,partial
+2018-05-28,meps_mbr0_pp_2_5km_20180528T00Z.nc: OSError,partial
+2018-05-29,meps_mbr0_pp_2_5km_20180529T00Z.nc: OSError,partial
+2018-10-10,meps_mbr0_full_backup_2_5km_20181010T00Z.nc: OSError,partial
+2019-03-01,meps_det_2_5km_20190301T00Z.nc: OSError,full
+2019-03-02,meps_det_2_5km_20190302T00Z.nc: OSError,full
+2019-03-03,meps_det_2_5km_20190303T00Z.nc: OSError,full
+2019-10-14,meps_mbr0_pp_2_5km_20191014T00Z.nc: OSError,partial
+2019-11-15,meps_mbr0_pp_2_5km_20191115T00Z.nc: OSError,partial
+2020-06-07,meps_mbr0_full_backup_2_5km_20200607T00Z.nc: OSError; meps_mbr0_pp_2_5km_20200607T00Z.nc: OSError,full

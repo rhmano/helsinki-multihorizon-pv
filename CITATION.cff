@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Contribution of an operational regional weather forecast to intraday and day-ahead PV power forecasting: code and results (Helsinki-Kumpula)"
+type: software
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+authors:
+  - family-names: Rahmanu
+    given-names: Muhammed
+    affiliation: "Kocaeli University, Department of Energy Systems Engineering"
+    orcid: "https://orcid.org/0009-0001-5086-5083"
+  - family-names: Karakaya
+    given-names: Abdulhakim
+    affiliation: "Kocaeli University, Department of Energy Systems Engineering"
+    orcid: "https://orcid.org/0000-0003-1119-6945"
+keywords:
+  - photovoltaic power forecasting
+  - numerical weather prediction
+  - MEPS
+  - machine learning
+  - forecast skill
+  - Diebold-Mariano test
