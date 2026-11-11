@@ -57,6 +57,8 @@ results/
 
 For the LSTM, each of the five seeds is tested separately and the largest p-value is reported; the nRMSE reduction in `dm_nwp_gain_*.csv` belongs to that seed.
 
+Changes between versions are listed in `CHANGELOG.md`.
+
 ## Rebuilding everything from scratch
 
 1. Download the FMI data set and place the Helsinki file at `data/raw/FMI_Helsinki_PV.csv`; run `01_data_preparation.ipynb`.
