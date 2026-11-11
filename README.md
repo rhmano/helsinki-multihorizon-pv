@@ -1,6 +1,6 @@
 # Intraday and day-ahead PV power forecasting with an operational regional weather forecast (Helsinki-Kumpula)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24119837.svg)](https://doi.org/10.5281/zenodo.24119837)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24119836.svg)](https://doi.org/10.5281/zenodo.24119836)
 
 Code, data and results for the article
 
