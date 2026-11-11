@@ -1,5 +1,7 @@
 # Intraday and day-ahead PV power forecasting with an operational regional weather forecast (Helsinki-Kumpula)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24119837.svg)](https://doi.org/10.5281/zenodo.24119837)
+
 Code, data and results for the article
 
 > Rahmanu, M., Karakaya, A. *İşletimsel Bölgesel Hava Tahmininin Gün İçi ve Ertesi Gün Fotovoltaik Güç Tahminine Katkısı: Helsinki Örneğinde Altı Makine Öğrenmesi Algoritmasının Karşılaştırılması* (under review).
